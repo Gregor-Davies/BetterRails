@@ -4,7 +4,7 @@ BetterRails gives you more rails (2x) for your iron.
 Designed for 1.17 only but maybe more if requested.
 
 
-**How to install***
+**How to install**
 
 1. Download the folder.
 2. Go to your .minecraft folder (%appdata% on windows)
